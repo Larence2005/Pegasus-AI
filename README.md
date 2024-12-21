@@ -36,8 +36,8 @@ To run the app, make sure you have the following interpreter and libraries:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/pegasus-ai.git
-   cd pegasus-ai
+   git clone https://github.com/Larence2005/Pegasus-AI.git
+   cd Pegasus-AI
    ```
 
 2. Ensure you have the API key for Google Generative AI. Set it in the code or store it securely in an environment variable.
