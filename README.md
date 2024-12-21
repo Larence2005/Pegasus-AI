@@ -2,6 +2,7 @@
 
 Pegasus AI is a mobile-compatible chatbot built using the KivyMD framework, designed to interact with users through chat, image, and file attachments. It integrates with Google Generative AI (Gemini) to provide conversational responses, and a navigation drawer for easy chat history access.
 
+
 ![vlcsnap-2024-12-21-20h43m21s408](https://github.com/user-attachments/assets/ee3c4978-9778-44bb-9ad4-58c558ddef30)
 
 ## Features
@@ -17,7 +18,7 @@ Pegasus AI is a mobile-compatible chatbot built using the KivyMD framework, desi
 - The layout of image and file attachments in the chat is not responsive.
 - It doesn't recognize image and file attachments correctly.
 - You cannot click to add or remove a chat in the navigation bar.
-## Features to Be Applied:
+## Features to be Applied:
 - Should use Supabase for the database instead of JSON.
 - Should include a login page and a sign-out page.
 
