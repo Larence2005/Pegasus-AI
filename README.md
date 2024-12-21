@@ -17,7 +17,7 @@ Pegasus AI is a mobile-compatible chatbot built using the KivyMD framework, desi
 - The layout of image and file attachments in the chat is not responsive.
 - It doesn't recognize image and file attachments correctly.
 - You cannot click to add or remove a chat in the navigation bar.
-## Features to be Applied:
+## Features to be Applied
 - Should use Supabase for the database instead of JSON.
 - Should include a login page and a sign-out page.
 
