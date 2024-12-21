@@ -26,7 +26,7 @@ Pegasus AI is a mobile-compatible chatbot built using the KivyMD framework, desi
 
 To run the app, make sure you have the following interpreter and libraries:
 
-- Python 3.x
+- Python 3.12
 - Kivy
 - KivyMD
 - Pillow
